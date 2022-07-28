@@ -14,5 +14,5 @@ public class Empwage {
 			System.out.println("Employee is Absent  : A");
 
 	}
-
+    
 }
